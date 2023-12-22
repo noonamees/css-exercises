@@ -1,0 +1,14 @@
+.1{
+  background-color:black;
+  color:white;
+}
+
+.2{
+  background-color:yellow;
+  color:black;
+}
+
+.2,.1{
+  font-size:28px;
+  font-family:Helvetica,"Times new roman", sans-serif;
+}
